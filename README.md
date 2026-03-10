@@ -70,6 +70,11 @@ streamlit run streamlit_app.py
 ```
 
 ---
+## Live Application
+
+You can try the tool here:
+
+https://engineering-cost-intelligence-xfsfmjju7ttkgn4mmo4dra.streamlit.app/
 
 ## Project Evolution
 
